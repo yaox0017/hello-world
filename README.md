@@ -1,2 +1,12 @@
 # hello-world
-To create a new repository
+
+Hi Humans!
+
+
+why 
+
+what 
+
+where 
+
+who
